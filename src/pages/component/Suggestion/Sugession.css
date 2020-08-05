@@ -1,0 +1,30 @@
+.search-input1 {
+    width: 400px;
+    padding: 16px 50px;
+    border-radius: 2px;
+     border: 5px; 
+     outline: 1px; 
+
+    font-size: 16px;
+    background: #2d2f30;
+    color: #f2f2f2;
+
+}
+
+.list{
+    list-style-type: none;
+
+}
+
+.search-input1:hover {
+    background-color:#CCCC00		;
+  }
+
+
+  .active {
+    background-color: #CCCC00		;
+}
+
+.span1 {
+  margin-left: 80%;
+}

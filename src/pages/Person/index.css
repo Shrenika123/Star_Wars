@@ -1,0 +1,40 @@
+.person h1 {
+    color: #ecd014;
+}
+
+
+
+.img{
+    position: relative;
+        border: 1px solid black;
+        border-radius: 4px;
+        padding: 0px;
+        width: 250px;
+        height: 300px;
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        box-align:left;
+        float: left;
+        right:20px
+}
+
+.span{
+    font-family: 'Mountains of Christmas';
+    
+    color: white;
+    font-size: 27px;
+}
+.container{
+    width: 500px;
+        padding: 16px;
+        text-align: left;
+        border: 1px solid rgb(120, 122, 89);
+        box-shadow: 0 2px 3px #ccc;
+        margin: 10px;
+        cursor: pointer;
+        float:right;
+        box-shadow: 5px 8px 8px #d5d815f8;
+}
+
+
