@@ -1,5 +1,5 @@
 #npm install
 
-#description
-this project gives out all the details for the star wars character
+#description:
+this project gives out  the details for the StarWars characters
 
